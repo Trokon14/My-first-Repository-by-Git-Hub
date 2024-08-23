@@ -1,7 +1,7 @@
 # My-first-Repository-by-Git-Hub
-mkdir apt 
+`$mkdir apt 
 
-sudo apt install suricata
+`$sudo apt install suricata
 
 sudo apt remove suricata
 
